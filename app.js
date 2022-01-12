@@ -7,7 +7,7 @@ import SESSION_DATA from './session.json'
 
 const phrases = [
     "Hola mi vida hermosa, eres preciosa",
-    "Hola mi pompis, es segundos estaré contigo",
+    "Hola mi pompis, en segundos estaré contigo",
     "Hola amor de mi vida, te extraño",
     "Estoy en el baño, ya vuelvo, teamo!",
     "Estoy haciendo alguna cosa, ya vuelvo, pero te amo"
